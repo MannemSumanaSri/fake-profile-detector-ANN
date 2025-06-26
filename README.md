@@ -18,7 +18,7 @@ Model trained using ANN with ReLU and Sigmoid activations
 
 🔧 How to Run
 Clone the repository:
-git clone https://github.com/yourusername/fake-profile-detection-ann
+git clone https://github.com/MannemSumanaSri/fake-profile-detector-ANN
 Install dependencies:
 pip install -r requirements.txt
 Run the script:
